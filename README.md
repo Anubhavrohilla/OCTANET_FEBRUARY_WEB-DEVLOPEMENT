@@ -1,6 +1,9 @@
-# OCTANET_FEBRUARY_WEB-DEVLOPEMENT
+# OCTANET_FEBRUARY_WEB-DEVELOPMENT
+Responsive Landing Page Fitness Page
+Beautiful Responsive Landing Page Car showcase Page 🏝️ Using HTML, CSS and JavaScript. It contains a header, nav and Section showing various Car Showcase page sections.
 
-Watch video This is Preview of Landing Page
+
+Watch the video This is a Preview of the Landing Page
 https://1drv.ms/v/s!AiDMip7a95ozh-tRXf61q6Y2XU8NrQ
 
 
